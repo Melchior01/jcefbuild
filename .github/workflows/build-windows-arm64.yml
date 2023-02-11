@@ -10,7 +10,7 @@ on:
       ref:
         description: 'Git commit id to checkout'
         required: true
-        default: 'master'
+        default: '854af1fb3da974ba9458e53a1328f62ba72fe448'
 
 jobs:
   build-windows-arm64:
